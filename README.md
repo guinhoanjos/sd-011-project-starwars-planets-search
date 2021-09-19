@@ -10,5 +10,5 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 * Clone o projeto
 * Use o NPM install para instalar as dependencias
-
+* Ou use o [link](https://projectstarwars.vercel.app/) para acessar ele no vecel
 ---
